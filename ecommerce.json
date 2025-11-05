@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "redmi note 11",
+      "price": 25000
+    },
+    {
+      "id": 2,
+      "name": "vivo v20",
+      "price": 2000
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "date": "08/05/2023",
+      "total": 25000
+    },
+    {
+      "id": 2,
+      "date": "07/05/2023",
+      "total": 5000
+    }
+  ]
+}
